@@ -3,8 +3,8 @@
 **email: olawaleasifat@gmail.com**  
 **Copyright © 2022 Asifat Haruna. All rights reserved**  
 
-**Large-Scale Preprocessing of Sentinel-1 (SAR) Data for Time Series Analysis **
-![](./clouds_preprocessing_s2.png)
+**Large-Scale Preprocessing of Sentinel-1 (SAR) Data for Time Series Analysis**
+![](./ARD_SAR.png)
 
 This project demonstrates how to efficiently prepare a dense synthetic aperture radar (SAR) time series using the distributed cloud platform of Google Earth Engine.   
 
